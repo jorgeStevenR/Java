@@ -26,11 +26,10 @@ public class App {
 
         //imprimir datos por consola 
         System.out.print("La edad del estudiante es " + edad 
-                        + " anios" + " el nombre del estudiante es " + nombre 
-                        + " la estatura del estudiante es " + estatura 
-                        + " la letra digitada es " + letra);
-
-
+                        + "\nanios" + " el nombre del estudiante es " + nombre 
+                        + "\nla estatura del estudiante es " + estatura 
+                        + "\nla letra digitada es " + letra);
+        
 
     }
 
